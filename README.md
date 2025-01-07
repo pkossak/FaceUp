@@ -40,7 +40,7 @@ FaceUp is a Python-based application for real-time face detection and image over
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/FaceUp.git
+git clone https://github.com/pkossak/FaceUp.git
 cd FaceUp
 ```
 
